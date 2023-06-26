@@ -1,0 +1,88 @@
+body{
+    background-color:rgb(7, 7, 7)
+}
+*{
+    padding:0;
+    margin:0;
+}
+
+.nav{
+    height: 60px;
+    background-color: rgb(0, 0, 81);
+    
+}
+a{
+ background-color:rgb(26, 26, 77);
+    font-family: fantasy;
+    float: left;
+    color: #f2f2f2;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 25px;
+
+}
+a:hover {
+    color: rgb(131, 1, 1);
+  }
+.logo{
+    float: right;
+    height: 60px;
+    width: 10%;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 500px;
+    width: 500px;
+    border-radius: 250px;
+}
+p{
+  color: cornsilk;
+  font-family: sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+.About{
+  background-color:  rgba(38, 32, 32, 0.438);
+    color: #f2f2f2;
+    padding: 100px 50px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.Skills{
+    color: #f2f2f2;
+    padding: 100px 50px;
+      text-align: center;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.Projects{
+  background-color:  rgba(38, 32, 32, 0.438);
+  padding: 100px 50px;
+}
+li{
+  list-style-type: none;
+  font-family: sans-serif;
+}
+h1,h3{
+      color:tomato;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+}
+h2{
+  color: tomato;
+  /*padding: 100px 50px;*/
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+footer{
+  padding: 100px 50px;
+  color: #f2f2f2;
+  text-align: center;
+}
